@@ -1,0 +1,13 @@
+body{
+    font-family: 'Roboto';
+
+}
+
+.card-title{
+    color: #212529;
+}
+
+.card-text{
+    font-weight: lighter;
+    color: #707070;
+}
